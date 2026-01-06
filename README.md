@@ -1,1 +1,1 @@
-# Sorting-Algorithm-Visualizer-Python-
+# Sorting-Algorithm-Visualizer-Python
