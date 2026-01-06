@@ -23,6 +23,7 @@ consumes these states and renders them using matplotlib bar charts.
 - Supports multiple algorithms through a menu-based interface
 - Easy to extend with new algorithms
 
+<img width="1077" height="647" alt="image" src="https://github.com/user-attachments/assets/2d7bbaec-7e0a-42f7-bb88-dab480e82c8f" />
+
 ## How to Run
-```bash
-python main.py
+python Main.py
